@@ -1,0 +1,5 @@
+Employees must report cybersecurity incidents within 15 minutes of detection.
+The IT security team will classify the severity of each incident.
+All incidents must be documented in the incident response system.
+Systems affected by breaches must be isolated immediately.
+Post-incident reviews must be completed within 48 hours.

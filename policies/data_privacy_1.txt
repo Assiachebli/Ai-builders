@@ -1,0 +1,5 @@
+All employees must protect customer data and never share passwords. 
+Personal data must be encrypted when stored or transmitted. 
+Data access is only allowed for authorized personnel. 
+Employees must report any data breach immediately to IT security. 
+Customer consent is required before collecting personal information.

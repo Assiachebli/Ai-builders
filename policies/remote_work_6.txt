@@ -1,0 +1,5 @@
+Employees must use secure VPN connections when working remotely.  
+Company laptops should never be left unattended in public places.  
+Work-related files must be stored in company-approved cloud storage.  
+Do not share login credentials with family or friends.  
+Regularly update remote access passwords to maintain security.

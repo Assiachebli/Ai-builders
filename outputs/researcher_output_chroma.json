@@ -1,0 +1,25 @@
+{
+    "query": "What does the company say about password security?",
+    "top_5_passages": [
+        {
+            "file": "data_privacy_1.txt",
+            "excerpt": "All employees must protect customer data and never share passwords. \nPersonal data must be encrypted when stored or transmitted. \nData access is only allowed for authorized personnel. \nEmployees must report any data breach immediately to IT security. \nCustomer consent is required before collecting personal information.\n"
+        },
+        {
+            "file": "password_security_2.txt",
+            "excerpt": "Passwords must be at least 12 characters long and contain numbers, letters, and symbols. \nPasswords must be changed every 90 days. \nDo not reuse old passwords for new accounts. \nTwo-factor authentication must be enabled for sensitive accounts. \nNever share passwords with coworkers or third parties.\n"
+        },
+        {
+            "file": "access_control_11.txt",
+            "excerpt": "All employees must use individual accounts when accessing company systems.\nShared accounts are prohibited unless approved by IT security.\nAdministrative privileges must only be granted to authorized personnel.\nAccess rights must be reviewed every 6 months by department managers.\nEmployees must immediately report unauthorized system access attempts.\n"
+        },
+        {
+            "file": "remote_work_6.txt",
+            "excerpt": "Employees must use secure VPN connections when working remotely.  \nCompany laptops should never be left unattended in public places.  \nWork-related files must be stored in company-approved cloud storage.  \nDo not share login credentials with family or friends.  \nRegularly update remote access passwords to maintain security.\n"
+        },
+        {
+            "file": "internet_device_usage_5.txt",
+            "excerpt": "Company devices are for work purposes only. \nPersonal software installations are prohibited without IT approval. \nDo not connect unauthorized devices to the company network. \nKeep software and antivirus programs up to date. \nReport lost or stolen devices immediately to IT security.\n"
+        }
+    ]
+}

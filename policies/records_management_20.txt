@@ -1,0 +1,5 @@
+All company records must be stored according to retention policies.
+Expired records must be securely destroyed.
+Digital records must have backup versions stored off-site.
+Employees must ensure documents are labeled correctly.
+Unauthorized alteration of official records is strictly prohibited.

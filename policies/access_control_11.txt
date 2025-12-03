@@ -1,0 +1,5 @@
+All employees must use individual accounts when accessing company systems.
+Shared accounts are prohibited unless approved by IT security.
+Administrative privileges must only be granted to authorized personnel.
+Access rights must be reviewed every 6 months by department managers.
+Employees must immediately report unauthorized system access attempts.

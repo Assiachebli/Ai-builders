@@ -1,0 +1,5 @@
+All code must be peer-reviewed before merging into production.
+Developers must write unit tests for new features.
+Security vulnerabilities must be fixed within 72 hours of discovery.
+Production access for developers must be strictly controlled.
+Documentation must be updated after any major code changes.
