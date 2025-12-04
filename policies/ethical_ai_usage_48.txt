@@ -1,0 +1,5 @@
+AI tools must not be used to discriminate or cause harm.
+Training data must respect privacy and copyright rules.
+Automated decisions must be reviewed regularly for fairness.
+AI models must be documented and monitored.
+Unauthorized modification of AI systems is prohibited.

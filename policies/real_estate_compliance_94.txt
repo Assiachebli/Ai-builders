@@ -1,0 +1,5 @@
+Property contracts must follow legal requirements.
+Agents must verify property ownership before listing.
+Customer deposits must be stored in secure accounts.
+Misrepresentation of property details is prohibited.
+Inspection reports must be shared with clients transparently.

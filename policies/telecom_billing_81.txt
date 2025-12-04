@@ -1,0 +1,5 @@
+Customer billing data must be verified before invoices are issued.
+Billing errors must be corrected within 48 hours.
+Unauthorized charges are strictly prohibited.
+All call records must remain confidential.
+Refunds must follow the official company procedure.

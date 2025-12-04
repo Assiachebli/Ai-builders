@@ -1,0 +1,5 @@
+Vehicles must receive routine maintenance checks.
+Mileage logs must be updated after each use.
+Only authorized drivers may operate company vehicles.
+Fuel usage must be monitored.
+Accidents must be documented.

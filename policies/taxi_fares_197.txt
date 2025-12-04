@@ -1,0 +1,5 @@
+Fares must follow legal tariffs.
+Drivers must turn on the meter for every trip.
+Passengers must receive correct change.
+Overcharging is prohibited.
+Fare disputes must be logged.

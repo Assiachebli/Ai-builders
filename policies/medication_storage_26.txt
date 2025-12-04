@@ -1,0 +1,5 @@
+Medicines must be stored at the required temperature.
+Expired products must be removed immediately from inventory.
+Controlled drugs require double authorization for dispensing.
+Medication logs must be updated after every distribution.
+Unauthorized personnel cannot access medication rooms.

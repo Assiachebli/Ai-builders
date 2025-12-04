@@ -1,0 +1,5 @@
+Sales staff must not promise services that the company cannot deliver.
+Pricing must follow the approved company pricing list.
+Customer contracts must be reviewed before signing.
+Misrepresentation of product features is prohibited.
+Sales data must be entered accurately in the CRM.

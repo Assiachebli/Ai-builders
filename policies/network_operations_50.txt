@@ -1,0 +1,5 @@
+Network outages must be logged with timestamps.
+Engineers must use secure access to network equipment.
+Unauthorized network changes are prohibited.
+Customer service must be notified of major outages.
+Backup systems must be tested monthly.

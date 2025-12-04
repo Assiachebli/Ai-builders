@@ -1,0 +1,5 @@
+All calls may be recorded for quality monitoring.
+Agents must follow approved scripts.
+Escalations must follow the defined workflow.
+Customer data discussed on calls must be protected.
+Service agents must meet monthly performance standards.

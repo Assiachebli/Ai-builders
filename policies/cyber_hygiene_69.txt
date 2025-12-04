@@ -1,0 +1,5 @@
+Passwords must not be written down in visible areas.
+Unknown USB devices may not be connected.
+Phishing awareness training must be done annually.
+Personal devices must follow company security rules.
+Software updates must be installed promptly.

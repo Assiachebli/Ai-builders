@@ -1,0 +1,5 @@
+Finished products must pass quality inspection before packaging.
+Defective items must be removed from the production line.
+Machines must be calibrated weekly to maintain accuracy.
+Production data must be logged daily.
+Safety rules must be followed during quality testing.

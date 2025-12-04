@@ -1,0 +1,5 @@
+Contracts must be stored in encrypted document systems.
+Only authorized legal staff may edit legal agreements.
+Changes to contracts must be tracked and reviewed.
+Signed documents must be archived for at least 10 years.
+Sensitive cases must be handled with extra confidentiality.

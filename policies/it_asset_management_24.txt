@@ -1,0 +1,5 @@
+All IT equipment must be logged in the asset management system.
+Devices must be returned to IT for inspection before disposal.
+Workstations must not be modified without IT approval.
+Lost hardware must be reported within 1 hour.
+Every device must have inventory tags attached visibly.

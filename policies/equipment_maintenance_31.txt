@@ -1,0 +1,5 @@
+Machines must be inspected before each shift.
+Unexpected noise or malfunction must be reported immediately.
+Only trained technicians may repair equipment.
+Maintenance logs must be completed daily.
+Shutdown procedures must be followed during emergencies.

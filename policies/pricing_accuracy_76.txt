@@ -1,0 +1,5 @@
+Displayed product prices must match register prices.
+Promotional discounts must be updated in the system daily.
+Price discrepancies must be corrected within the same business day.
+Employees must not alter prices without management approval.
+Customers must be informed of pricing policies upon request.

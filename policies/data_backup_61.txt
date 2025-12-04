@@ -1,0 +1,5 @@
+Data backups must run daily.
+Backup files must be stored in secure off-site locations.
+Recovery procedures must be tested quarterly.
+Unauthorized access to backup systems is prohibited.
+Backup failures must be reported immediately.

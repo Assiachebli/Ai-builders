@@ -1,0 +1,5 @@
+All critical updates must be installed within 48 hours.
+Unsupported software must be removed from devices.
+Systems must be scanned weekly for vulnerabilities.
+Only IT administrators may apply security patches.
+Patch records must be documented for audit purposes.

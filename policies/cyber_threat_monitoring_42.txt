@@ -1,0 +1,5 @@
+Firewalls and intrusion systems must be monitored 24/7.
+Suspicious activity must be escalated immediately.
+Unauthorized scanning of company networks is prohibited.
+System logs must be reviewed weekly.
+All cybersecurity alerts must be documented.

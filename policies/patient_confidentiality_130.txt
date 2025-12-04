@@ -1,0 +1,5 @@
+Patient information must follow Moroccan privacy laws.
+Medical files must be stored in secure systems.
+Unauthorized sharing of patient data is prohibited.
+Only authorized staff may view medical records.
+Patients may request copies of their medical files.

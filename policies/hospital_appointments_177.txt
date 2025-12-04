@@ -1,0 +1,5 @@
+Patients must receive clear appointment dates.
+Delays must be communicated to patients.
+Priority must be given to emergency cases.
+Appointments must be logged.
+No unauthorized fee collection is allowed.

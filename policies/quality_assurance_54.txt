@@ -1,0 +1,5 @@
+All products must pass quality checks before release.
+Defects must be documented and analyzed.
+Production teams must follow standard operating procedures.
+Quality inspectors must remain independent.
+Customer complaints must be investigated fully.

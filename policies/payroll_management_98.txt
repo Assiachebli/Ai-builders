@@ -1,0 +1,5 @@
+Salary payments must be processed accurately and on time.
+Employee records must be updated after contract changes.
+Overtime must be approved by supervisors.
+Payroll errors must be corrected within two working days.
+Sensitive payroll data must remain confidential.

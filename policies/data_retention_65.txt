@@ -1,0 +1,5 @@
+Documents must be stored for defined retention periods.
+Expired documents must be disposed of securely.
+Employees may not delete official data without approval.
+Retention policies must be reviewed annually.
+Digital archives must be backed up regularly.

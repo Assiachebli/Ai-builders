@@ -1,0 +1,5 @@
+Loan files must be reviewed by at least two officers.
+Credit checks must be completed before approval.
+Incomplete documentation cannot be processed.
+Loan decisions must follow risk assessment guidelines.
+Rejected applicants must be notified with reasons.

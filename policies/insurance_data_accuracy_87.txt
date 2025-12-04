@@ -1,0 +1,5 @@
+Policy information must be verified before approval.
+Customer documents must not be altered or falsified.
+Claims must be reviewed based on verified evidence only.
+Revisions must be logged with employee identification.
+Errors found in customer profiles must be corrected promptly.

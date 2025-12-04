@@ -1,0 +1,5 @@
+Dual authentication is required for large transfers.
+Employees may not access client accounts without purpose.
+Suspicious transactions must be flagged immediately.
+Cash handling must follow internal controls.
+Customer banking data must remain confidential.

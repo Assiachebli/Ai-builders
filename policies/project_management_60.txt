@@ -1,0 +1,5 @@
+Projects must follow defined timelines.
+Scope changes must be documented.
+Weekly progress reports are mandatory.
+Risks must be identified early.
+Deliverables must meet quality standards.

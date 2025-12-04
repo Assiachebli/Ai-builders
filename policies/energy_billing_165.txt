@@ -1,0 +1,5 @@
+Invoices must follow approved pricing tariffs.
+Meter readings must be accurate.
+Billing complaints must be handled within deadlines.
+Unauthorized connection to electricity networks is illegal.
+Service interruptions must be communicated.

@@ -1,0 +1,5 @@
+Drivers must perform vehicle checks before each trip.
+Speed limits must be strictly respected.
+Cargo must be secured and inspected before departure.
+Driving while fatigued or distracted is prohibited.
+Accidents must be reported within 15 minutes.
