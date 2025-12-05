@@ -1,0 +1,11 @@
+ARCA Update Notification
+------------------------
+
+The following updates were detected:
+
+{{updates}}
+
+Recommendation: {{recommendation}}
+
+Regards,
+ARCA System

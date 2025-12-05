@@ -1,0 +1,14 @@
+ARCA Update Notification
+------------------------
+
+The following updates were detected:
+
+
+ - 🇲🇦 New national regulation or report detected (Generator).
+ - 🌍 International regulation updates detected (Generator).
+ - ‼️ Auditor detected MEDIUM risks: 1.
+
+Recommendation: Medium-level conflicts detected. Review MEDIUM risks with the compliance team.
+
+Regards,
+ARCA System

@@ -1,0 +1,10 @@
+{
+  "sent_at": "2025-12-05T15:48:35.535905",
+  "updates": [
+    "\ud83c\uddf2\ud83c\udde6 New national regulation or report detected (Generator).",
+    "\ud83c\udf0d International regulation updates detected (Generator).",
+    "\u203c\ufe0f Auditor detected MEDIUM risks: 1."
+  ],
+  "recommendation": "Medium-level conflicts detected. Review MEDIUM risks with the compliance team.",
+  "dry_run": true
+}

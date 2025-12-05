@@ -1,0 +1,12 @@
+{
+  "email": "your.email@example.com",
+  "email_password": "",
+  "frequency": "daily",
+  "subscribe_internal": true,
+  "subscribe_national": true,
+  "subscribe_international": true,
+  "subscribe_high_risk": true,
+  "attach_pdf": false,
+  "smtp_host": "smtp.gmail.com",
+  "smtp_port": 587
+}
